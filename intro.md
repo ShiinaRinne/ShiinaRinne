@@ -3,14 +3,14 @@
   - [MMD6UnityTool](#mmd6unitytool)
   - [AnimeStylePostProcess](#animestylepostprocess)
 - [Tools](#tools)
+  - [TrueLove](#truelove)
+  - [stream\_zip\_downloader](#stream_zip_downloader)
   - [py-obisync](#py-obisync)
   - [syosetu\_novel\_downloader](#syosetu_novel_downloader)
   - [v2rayN](#v2rayn)
   - [netch-with-xray](#netch-with-xray)
 - [Collection of sth](#collection-of-sth)
   - [Real-Time-Rendering-4th-Bibliography-Collection](#real-time-rendering-4th-bibliography-collection)
-  - [ef\_collection](#ef_collection)
-
 
 # Unity
 
@@ -31,10 +31,18 @@ Animation style post-processing based on Unity URP.<br>
 很久之前换到 AnimeToolBox 后就没有对这里 Volume 的方式更新了<br>
 之后可能会作为插件或者修改版的 AnimeToolBox 再放出来，先挖个坑在这
 
-<!-- # UnrealEngine
-[UnrealToon](https://github.com/ShiinaRinne/UnrealToon) -->
 
 # Tools
+[TrueLove](https://github.com/ShiinaRinne/TrueLove)<br>
+---
+Subscribe authors from different platforms, automatically detect updates and save their medias offline.<br>
+从不同平台订阅作者, 自动检测更新并离线保持他们的作品.
+
+[stream_zip_downloader](https://github.com/ShiinaRinne/stream_zip_downloader)<br>
+---
+Streaming download and decompression of zip files without additional space.<br>
+流式下载解压zip文件，不再需要预留额外的空间
+
 
 [py-obisync](https://github.com/ShiinaRinne/py-obisync)
 ---
@@ -64,8 +72,3 @@ Netch with Xray-core<br>
 ---
 Compared to the original version, this release corrects several mistakes and incorporates additional files that were previously missing.<br>
 在 [@QiamMo](https://github.com/QianMo) 原版基础上，修了一些错误，补了一些缺的资料(可惜现在仍然缺很多，这部分实在是找不到，有缘会补)
-
-[ef_collection](https://github.com/devil233-ui/ef_collection)
----
-A collection of [Ef: A Fairy Tale of the Two](https://en.wikipedia.org/wiki/Ef:_A_Fairy_Tale_of_the_Two). If you are a devotee of ef...<br>
-ef-悠久之翼的各种资料收集
